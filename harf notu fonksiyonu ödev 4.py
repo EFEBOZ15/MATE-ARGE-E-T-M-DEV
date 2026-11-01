@@ -22,9 +22,7 @@ def harf_notu_hesaplama():
     else:
         harf = "FF"
 
-    # print satırları fonksiyonun içinde (girintili) olmalı
+   
     print("Ortalamanız:", ortalama)
     print("Harf notunuz:", harf)
-
-# Fonksiyonu çağırma
 harf_notu_hesaplama()
